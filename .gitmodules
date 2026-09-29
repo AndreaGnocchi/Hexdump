@@ -1,0 +1,3 @@
+[submodule "AGLib"]
+	path = c/AGLib
+	url = https://github.com/AndreaGnocchi/AGLib.git
